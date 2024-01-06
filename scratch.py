@@ -27,8 +27,7 @@ for letter in encrypted:
     encrypt += original[index]
 
 print(f"original message {encrypted}")
-print(f"encrypted message {encrypt}")
-
+print(f"encrypted message {encrypt} sahil")
 
 
 
